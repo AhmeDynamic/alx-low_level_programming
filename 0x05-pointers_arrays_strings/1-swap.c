@@ -5,7 +5,6 @@
  * Return:0
  * @a : is variable
  * @b : variable
- * @var : var
  */
 
 void swap_int(int *a, int *b)
